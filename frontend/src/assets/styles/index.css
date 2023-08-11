@@ -2,6 +2,10 @@ main {
   min-height: 80vh;
 }
 
+.custom-dropdown {
+  height: 150px; /* Adjust the height as needed */
+}
+
 .rating span {
   margin: 0.1rem;
 }
